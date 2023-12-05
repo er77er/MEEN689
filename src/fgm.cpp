@@ -1,5 +1,4 @@
 #include "msde_fgm/fgm.h"
-
 #include "msde_fgm/util_msde.h"
 
 #include "ros/ros.h"
