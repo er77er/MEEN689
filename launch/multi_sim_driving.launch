@@ -13,5 +13,4 @@
         <remap from="/scan" to="/opp_scan" />
     </node>
 
-
 </launch>
