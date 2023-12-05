@@ -1,7 +1,5 @@
-MSDE f1tenth Obstacle Passing
----
-
-Seoultech MSDE autonomouse driving (f1tenth) obstacle passing ros package   
+MEEN 689 Final Project
+---   
 
 #### tested environment
 Ubuntu 18.04   
