@@ -6,7 +6,6 @@
 
 #define PI 3.141592
 
-
 namespace util_msde{
 
     typedef struct _Point_xy{
